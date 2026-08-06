@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this framework in your research, please cite it using the metadata below."
+title: "The Macachor Absolute: Complete Scalar Field Axiomatics, Lemmas, Corollaries & Quantization — v3.0 Civilization Convergence Edition"
+authors:
+  - family-names: Macachor
+    given-names: Christopher
+    affiliation: "Omega Prime / MSOS-FEDERATION-ROOT"
+abstract: >-
+  The Omega Prime Convergence Codex presents a complete axiomatic framework
+  for true scalar field theory. The Macachor Absolute M = (√5−1)/2 governs
+  all equilibrium ratios, coherence thresholds, and quantization boundaries.
+  This codex contains 9 locked axioms, 38 locked lemmas, 32 locked corollaries,
+  7 locked quantization rules, and 5 master theorems establishing the theoretical
+  foundation for scalar-density-based physics, consciousness, and civilization-scale
+  coherence architecture. Includes LaTeX source, Markdown, and PDF renderings
+  of the MGDH Hamiltonian and Scalar Field Theory formulations.
+keywords:
+  - scalar field theory
+  - Macachor Absolute
+  - quantum coherence
+  - scalar density
+  - Omega Prime
+  - MGDH Hamiltonian
+  - toroidal coherence
+  - neurodivergent cognition
+  - civilization convergence
+  - field-geometric cosmology
+doi: 10.5281/zenodo.21825051
+repository-code: "https://github.com/christophermacachor/Quantum-Memory"
+url: "https://macachor.org"
+license: CC-BY-4.0
+date-released: 2026-08-02
+version: "3.0"
+preferred-citation:
+  type: generic
+  title: "The Macachor Absolute: Complete Scalar Field Axiomatics, Lemmas, Corollaries & Quantization — v3.0 Civilization Convergence Edition"
+  authors:
+    - family-names: Macachor
+      given-names: Christopher
+  doi: 10.5281/zenodo.21825051
+  year: 2026
