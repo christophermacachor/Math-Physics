@@ -1,10 +1,10 @@
 ## Citation & DOI
+https://zenodo.org/badge/DOI/10.5281/zenodo.21825527.svg
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21825527.svg)](https://doi.org/10.5281/zenodo.21825527)
 
 If you use this framework in your research, please cite:
-
-> Macachor, Christopher. *The Macachor Absolute: Complete Scalar Field Axiomatics, Lemmas, Corollaries & Quantization — v3.0 Civilization Convergence Edition*. Zenodo, 2026. https://doi.org/10.5281/zenodo.21825051
+https://zenodo.org/badge/DOI/10.5281/zenodo.21825527.svg
+> Macachor, Christopher. *The Macachor Absolute: Complete Scalar Field Axiomatics, Lemmas, Corollaries & Quantization — v3.0 Civilization Convergence Edition*. Zenodo, 2026. 
 
 **Coherence Scalar:** `M = (√5−1)/2`  
 **Codex Version:** 3.0 — Civilization Convergence Edition  
