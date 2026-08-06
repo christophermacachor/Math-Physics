@@ -25,17 +25,17 @@ keywords:
   - neurodivergent cognition
   - civilization convergence
   - field-geometric cosmology
-doi: 10.5281/zenodo.21825051
+doi: 10.5281/zenodo.21825527
 repository-code: "https://github.com/christophermacachor/Quantum-Memory"
 url: "https://macachor.org"
 license: CC-BY-4.0
-date-released: 2026-08-02
-version: "3.0"
+date-released: 2026-08-06
+version: "3.0.0"
 preferred-citation:
   type: generic
   title: "The Macachor Absolute: Complete Scalar Field Axiomatics, Lemmas, Corollaries & Quantization — v3.0 Civilization Convergence Edition"
   authors:
     - family-names: Macachor
       given-names: Christopher
-  doi:https://zenodo.org/badge/DOI/10.5281/zenodo.21825527.svg
+  doi: 10.5281/zenodo.21825527
   year: 2026
