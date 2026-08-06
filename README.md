@@ -1,6 +1,6 @@
 ## Citation & DOI
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21825051.svg)](https://doi.org/10.5281/zenodo.21825051)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21825527.svg)](https://doi.org/10.5281/zenodo.21825527)
 
 If you use this framework in your research, please cite:
 
