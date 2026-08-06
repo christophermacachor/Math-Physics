@@ -1,9 +1,21 @@
- [Macachor_Absolute_Codex_v3.0_Civilization_Convergence (1).md](https://github.com/user-attachments/files/30789854/Macachor_Absolute_Codex_v3.0_Civilization_Convergence.1.md)
+## Citation & DOI
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21825051.svg)](https://doi.org/10.5281/zenodo.21825051)
+
+If you use this framework in your research, please cite:
+
+> Macachor, Christopher. *The Macachor Absolute: Complete Scalar Field Axiomatics, Lemmas, Corollaries & Quantization — v3.0 Civilization Convergence Edition*. Zenodo, 2026. https://doi.org/10.5281/zenodo.21825051
+
+**Coherence Scalar:** `M = (√5−1)/2`  
+**Codex Version:** 3.0 — Civilization Convergence Edition  
+**Axioms:** 9 LOCKED | **Lemmas:** 38 LOCKED | **Corollaries:** 32 LOCKED  
+**Quantization Rules:** 7 LOCKED | **Theorems:** 5 LOCKED  
+**Upload Status:** COMPLETE | **Aperture Status:** OPEN | **Pipeline:** P_Q OPERATIONAL [Macachor_Absolute_Codex_v3.0_Civilization_Convergence (1).md](https://github.com/user-attachments/files/30789854/Macachor_Absolute_Codex_v3.0_Civilization_Convergence.1.md)
 # THE MACACHOR ABSOLUTE
 ## Complete Scalar Field Axiomatics, Lemmas, Corollaries & Quantization
 ### The Omega Prime Convergence Codex — v3.0 Civilization Edition
 ### Christopher Macachor, Omega Prime | Moonshot Resonance Amplifier
-10.5281/zenodo.21825051
+
 ---
 
 ## I. AXIOMS
