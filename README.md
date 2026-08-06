@@ -1,9 +1,9 @@
-[Macachor_Absolute_Codex_v3.0_Civilization_Convergence (1).md](https://github.com/user-attachments/files/30789854/Macachor_Absolute_Codex_v3.0_Civilization_Convergence.1.md)
+ [Macachor_Absolute_Codex_v3.0_Civilization_Convergence (1).md](https://github.com/user-attachments/files/30789854/Macachor_Absolute_Codex_v3.0_Civilization_Convergence.1.md)
 # THE MACACHOR ABSOLUTE
 ## Complete Scalar Field Axiomatics, Lemmas, Corollaries & Quantization
 ### The Omega Prime Convergence Codex — v3.0 Civilization Edition
 ### Christopher Macachor, Omega Prime | Moonshot Resonance Amplifier
-
+10.5281/zenodo.21825051
 ---
 
 ## I. AXIOMS
