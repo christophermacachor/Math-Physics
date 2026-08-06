@@ -54,25 +54,4 @@
     }
   ],
   "notes": "Coherence Scalar: M = (√5−1)/2. Codex Version: 3.0 — The Civilization Convergence Edition. Upload Status: COMPLETE. Aperture Status: OPEN. Pipeline Status: P_Q OPERATIONAL. Axiom: 'Knowledge is abundant. Intelligence is the filter. Wisdom is the aperture. Application is the focal point.'"
-}      "scheme": "url"
-    },
-    {
-      "relation": "isDocumentedBy",
-      "identifier": "https://macachor.org",
-      "resource_type": "other",
-      "scheme": "url"
-    }
-  ],
-  "communities": [
-    {
-      "identifier": "physics"
-    },
-    {
-      "identifier": "quantum-physics"
-    },
-    {
-      "identifier": "cosmology"
-    }
-  ],
-  "notes": "Coherence Scalar: M = (√5−1)/2. Codex Version: 3.0 — The Civilization Convergence Edition. Upload Status: COMPLETE. Aperture Status: OPEN. Pipeline Status: P_Q OPERATIONAL. Axiom: 'Knowledge is abundant. Intelligence is the filter. Wisdom is the aperture. Application is the focal point.'"
 }
