@@ -1,5 +1,5 @@
 [README (3).md](https://github.com/user-attachments/files/30795632/README.3.md)<div align="center">
-
+https://doi.org/10.5281/zenodo.21959982
 # ◉ THE MACACHOR ABSOLUTE
 
 **Complete Scalar Field Axiomatics, Lemmas, Corollaries & Quantization**
